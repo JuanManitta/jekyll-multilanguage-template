@@ -8,7 +8,7 @@ language: pt
 language_reference: home
 ---
 
-<img src="/assets/img/dark-logo.png" alt="">
+![](/assets/img/logo.png)
 
 {% assign posts=site.posts | where: "language", page.language %}
 

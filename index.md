@@ -4,16 +4,8 @@ layout: home
 language: en
 language_reference: index
 ---
-<img src="/assets/img/dark-logo.png" alt="">
+![](/assets/img/logo.png)
 
-<!-- <div style="padding: 1.5rem;">
-    <div class="flex">
-        <p>You can choose your preferred language to navigate through the site.</p>
-
-    </div>
-    <hr style="opacity: 0.1;">
-  </div> -->
-  
 {% assign posts=site.posts | where: "language", page.language %}
 
 <ul class="post-item-list">

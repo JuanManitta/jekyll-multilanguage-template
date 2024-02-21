@@ -8,17 +8,8 @@ language: en
 language_reference: home
 
 ---
-<img src="/assets/img/dark-logo.png" alt="">
-
-
-<!-- <div style="padding: 1.5rem;">
-    <div class="flex">
-        <p>You can choose your preferred language to navigate through the site.</p>
-
-    </div>
-    <hr style="opacity: 0.1;">
-  </div> -->
-  
+![](/assets/img/logo.png)
+ 
 {% assign posts=site.posts | where: "language", page.language %}
 
 <ul class="post-item-list">
