@@ -21,9 +21,9 @@
 title: 'Your awesome title'
 description: 'Your awesome description'
 
-baseurl: "" # the subpath of your site, e.g. /blog
-absoluteurl: ''
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+absoluteurl: 'https://juanmanitta.github.io/jekyll-multilanguage-template/'
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
 
 email:  youremail@email.com
 twitter_username: 'twitter'
