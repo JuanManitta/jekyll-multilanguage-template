@@ -8,7 +8,7 @@ language: en
 language_reference: home
 
 ---
-![](/assets/img/logo.png)
+![]({{"/assets/img/logo.png" | relative_url }} )
  
 {% assign posts=site.posts | where: "language", page.language %}
 
